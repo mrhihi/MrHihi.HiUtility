@@ -3,10 +3,10 @@
     <PackageId>MrHihi.HiUtility</PackageId>
     <Version>1.0.0</Version>
     <Authors>mrhihi</Authors>
-    <Description>This is a library for sarching and replacing files in a simple way.</Description>
+    <Description>HiUtility is a utility library for C# that provides a set of useful functions and classes that can be used in any C# project.</Description>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
-    <PackageProjectUrl>https://github.com/mrhihi/MrHihi.HiFileLibrary</PackageProjectUrl>
-    <RepositoryUrl>https://github.com/mrhihi/MrHihi.HiFileLibrary</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/mrhihi/MrHihi.HiUtility</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/mrhihi/MrHihi.HiUtility</RepositoryUrl>
     <PackageReadmeFile>Readme.md</PackageReadmeFile>
     <TargetFrameworks>net8.0</TargetFrameworks>
     <ImplicitUsings>enable</ImplicitUsings>
